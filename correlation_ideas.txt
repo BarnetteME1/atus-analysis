@@ -1,0 +1,25 @@
+2014 Basic ATUS Data Files
+ATUS 2014 Respondent file (zip) (0.9 MB) The Respondent file contains information about ATUS respondents, including their labor force status and earnings.
+
+ATUS 2014 Roster file (zip) (0.2 MB) The Roster file contains information about household members and nonhousehold children (under 18) of ATUS respondents. It includes information such as age and sex.
+
+ATUS 2014 Activity file (zip) (3.8 MB) The Activity file contains information about how ATUS respondents spent their diary day. It includes information such as activity codes, activity start and stop times, and locations.
+
+ATUS 2014 Activity summary file (zip) (0.8 MB) The Activity summary file contains information about the total time each ATUS respondent spent doing each activity on the diary day.
+
+ATUS 2014 Who file (zip) (0.9 MB) The Who file includes codes that indicate who was present during each activity.
+
+ATUS 2014 Eldercare Roster file (zip) (0.03 MB) The Eldercare Roster file contains information about people for whom ATUS respondents provided care. It includes information such as age, sex, and duration of care.
+
+ATUS-CPS 2014 file (zip) (7.0 MB) The ATUS-CPS file contains information about each household member of all individuals selected to participate in ATUS. The information on the ATUS-CPS file was collected 2 to 5 months before the ATUS interview.
+
+02 Household Activities 02 Food & Drink Prep., Presentation, & Clean-up 02 Food presentation
+09 Household Services 04 Lawn & Garden Services (not done by self) 01 Using lawn and garden services
+05 Work & Work-Related Activities 03 Other Income-generating Activities 01 Income-generating hobbies, crafts, and food
+12 Socializing, Relaxing, and Leisure 02 Attending or Hosting Social Events 01 Attending or hosting parties/receptions/ceremonies
+
+10 Government Services & Civic Obligations 01 Using Government Services 01 Using police and fire services
+05 Work & Work-Related Activities 04 Job Search and Interviewing 01 Job search activities
+12 Socializing, Relaxing, and Leisure 03 Relaxing and Leisure 02 Tobacco and drug use
+12 Socializing, Relaxing, and Leisure 04 Arts and Entertainment (other than sports) 01 Attending performing arts
+12 Socializing, Relaxing, and Leisure 02 Attending Sporting/Recreational Events 01 Watching aerobics
